@@ -12,7 +12,7 @@ Delhi, India &nbsp;·&nbsp; Open to collabs &nbsp;·&nbsp; he/him
 
 ### What I'm about
 
-I like problems that sit at the intersection of algorithms, data, and real-world messiness. Most of my projects start with a question I couldn't find a good answer to — so I built one.
+I like problems that sit at the intersection of algorithms, data, and real-world messiness. Most of my projects start with a question I couldn't find a good answer to, so I built one.
 
 Currently learning: **C++** · **Python** · **TypeScript**  
 Currently obsessed with: LLM tooling, computational simulations, generative systems
