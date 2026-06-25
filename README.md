@@ -20,14 +20,14 @@ Currently obsessed with: LLM tooling, computational simulations, generative syst
 ---
 
 ### Projects I'm proud of
-
 | Project | What it does | Stack |
 |---|---|---|
 | [PromptOps](https://github.com/arnavsaxena62/PromptOps) | Full-stack platform for testing and evaluating prompts across multiple LLMs — with versioning, cost tracking, and AI-as-judge scoring | TypeScript · FastAPI · OpenRouter |
-| [pollution-tracker](https://github.com/arnavsaxena62/pollution-tracker) | Backtracking algorithm that simulates particle dispersion to trace where pollutants originate in a region | Python |
-| [star-map](https://github.com/arnavsaxena62/star-map) | Accurate star map rendered using the Hubble dataset and vispy | Python |
-| [automated-tiktaktoe-generator](https://github.com/arnavsaxena62/automated-tiktaktoe-generator) | Exhaustively generates every possible tic-tac-toe game state to build an unbeatable bot | C++ |
-
+| [Compressor](https://github.com/arnavsaxena62/Compressor) | Lossless data compressor implementing Huffman coding, Burrows-Wheeler Transform, and Move-to-Front encoding | C |
+| [pollution-tracker](https://github.com/arnavsaxena62/pollution-tracker) | Backtracking algorithm that simulates particle dispersion to trace where pollutants originate in a region | Python · NumPy |
+| [star-map](https://github.com/arnavsaxena62/star-map) | GPU-accelerated star map rendered from the BSC5 catalog with real-time pan, zoom and rotation | Python · VisPy · OpenGL |
+| [commitcast](https://github.com/arnavsaxena62/commitcast) | Automated pipeline that summarizes GitHub commit diffs via LLM and delivers tweet drafts to Telegram each morning | Python · OpenRouter |
+| [langanalyzer](https://github.com/arnavsaxena62/langanalyzer) | Python library that scans a codebase and returns language breakdown by file size, similar to GitHub's language stats | Python |
 ---
 
 ### Languages & tools
